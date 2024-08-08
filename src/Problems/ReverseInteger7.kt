@@ -1,5 +1,7 @@
 package Problems
 
+//Link -> https://leetcode.com/problems/reverse-integer/description/
+
 class ReverseInteger7 {
     fun reverse(x: Int): Int {
     var original =x
