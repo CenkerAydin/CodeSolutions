@@ -1,4 +1,4 @@
-package Problems
+package problems.easy
 //Link -> https://leetcode.com/problems/palindrome-number/description/
 fun main() {
     println(isPalindrome(121)) //true
