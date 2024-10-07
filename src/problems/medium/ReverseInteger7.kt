@@ -1,4 +1,4 @@
-package problems.easy
+package problems.medium
 
 //Link -> https://leetcode.com/problems/reverse-integer/description/
 
